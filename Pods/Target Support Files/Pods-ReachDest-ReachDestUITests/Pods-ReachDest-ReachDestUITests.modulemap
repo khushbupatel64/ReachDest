@@ -1,0 +1,6 @@
+framework module Pods_ReachDest_ReachDestUITests {
+  umbrella header "Pods-ReachDest-ReachDestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
